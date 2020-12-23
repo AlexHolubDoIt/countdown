@@ -1,0 +1,32 @@
+.countdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 20vh;
+}
+
+.countdown-col {
+  display: flex;
+  flex-direction: column;
+  background: #2196f3;
+  margin: 15px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.countdown-col__value {
+  font-family: 'Space Mono', monospace;
+  font-size: 36px;
+  color: white;
+  padding: 15px;
+  min-width: 60px;
+  font-weight: 800;
+}
+.countdown-col__label {
+  font-size: 16px;
+  color: white;
+  font-weight: 600;
+  background: #1769aa;
+  padding: 5px 0;
+}
