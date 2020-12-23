@@ -15,6 +15,10 @@ The below component was designed to count down the days until our CTO's birthday
 * How would you make this countdown more aesthetically pleasing?
 * Trust your design instincts, and explain how your design choices impact the user experience
 
+1. We can make the following adjustments in the design of this page: to select a more suitable set of fonts and work out the required font size for creating a greater sense of urgency.
+2. In order to make this page look aesthetically pleasing, we can, in addition to working out fonts and positioning the main information in the center of the page, place a photo or illustration in the background.
+3. With the right selection of all of the above points, we create for the user a feeling of anticipation of an event, but without negative emotions (For example, this can happen when choosing an aggressive color, which can cause anxiety in the user, but our goal is to inform the user about the upcoming event, and not lead to a psychological discomfort.) In addition, at the bottom of the page, we can place links to social networks, while the user is waiting for an event, he can familiarize himself with basic information about the company.
+4. Also added optional function of displaying congratulations upon the end of the time.
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -11,7 +11,7 @@ const inOneMinute = moment().add(1, "minute").format();
 const App = () => (
     <div className="App">
         <header className="App-header">
-            <h1>Countdown</h1>
+            <h1>Time before the CTO birthday</h1>
         </header>
         <div className="content">
             <CountdownNew date={birthday}/>
